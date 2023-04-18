@@ -1,4 +1,6 @@
-﻿You are given a table,  _BST_, containing two columns:  _N_ and  _P,_ where  _N_  represents the value of a node in  _Binary Tree_, and  _P_  is the parent of  _N_.
+[Question Link on HackerRank](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)
+
+You are given a table,  _BST_, containing two columns:  _N_ and  _P,_ where  _N_  represents the value of a node in  _Binary Tree_, and  _P_  is the parent of  _N_.
 
 ![](https://s3.amazonaws.com/hr-challenge-images/12888/1443818507-5095ab9853-1.png)
 
